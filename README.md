@@ -28,10 +28,15 @@ Column name
 **Description**
 
 PRODUCT_ID	Represents a unique identification of a product
+
 TITLE	Represents the title of the product
+
 DESCRIPTION	Represents the description of the product
+
 BULLET_POINTS	Represents the bullet points about the product
+
 PRODUCT_TYPE_ID	Represents the product type 
+
 PRODUCT_LENGTH	Represents the length of the product
 
 
@@ -40,10 +45,17 @@ PRODUCT_LENGTH	Represents the length of the product
 score = max( 0 , 100*(1-metrics.mean_absolute_percentage_error(actual,predicted)))
 
 **RESULT SUBMISSION GUIDELINES**
+
 The index is "PRODUCT_ID" and the target is the "PRODUCT_LENGTH" column. 
+
 The submission file must be submitted in .csv format only.
+
 The size of this submission file must be  734736 x 2.
+
+
+
 Note: Ensure that your submission file contains the following:
 
 Correct index values as per the test file
+
 Correct names of columns as provided in the sample_submission.csv file
