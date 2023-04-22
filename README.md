@@ -59,3 +59,7 @@ Note: Ensure that your submission file contains the following:
 Correct index values as per the test file
 
 Correct names of columns as provided in the sample_submission.csv file
+
+**LINK**
+
+https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge-2023/machine-learning/product-length-prediction-7-85b7ef50/
