@@ -15,5 +15,7 @@ Dataset description
 The dataset folder contains the following files: 
 
 train.csv: 2249698 x 6
+
 test.csv: 734736 x 5
+
 sample_submission.csv: 734736 x 2
